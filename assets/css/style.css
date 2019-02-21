@@ -10,6 +10,29 @@ body {
     opacity: 0.7;
 }
 
+h1 {
+    font-size: 55px;
+}
+
+p {
+    font-size: 30px;
+}
+
+#currentWord {
+    font-size: 25px;
+}
+
+#lossCount {
+    font-size: 25px;
+}
+
+#winCount {
+    font-size: 25px;
+}
+
+#guessedLetter {
+    font-size: 25px;
+}
 
 .monster {
     background: black;
